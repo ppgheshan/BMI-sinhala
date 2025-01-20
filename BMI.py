@@ -3,8 +3,8 @@
 
 file=open("data.txt","a")
 w=input("whats Your Name ")
-x=int(input("බර Kg වලින් "))
-z=int(input("උස Cm වලින් "))
+x=int(input("බර KG වලින් "))
+z=int(input("උස CM වලින් "))
 a=z/100;
 y=a*a;
 
